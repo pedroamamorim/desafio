@@ -56,6 +56,36 @@ GET /api/1/users
 }
 ```
 ```
+GET /api/1/search?q={query}
+```
+```json
+{
+    "total": 2,
+    "limit": 10,
+    "offset": 0,
+    "search": [
+	        {
+	            "id": "1",
+	            "name": "Ronaldo Abreu",
+	            "email": "ronaldo.abreu@meusite.com.br",
+	            "phone": "(14) 99745-1234",
+	            "amount": "251.59",
+	            "photo_url": "http://desafio.eadplataforma.com/front/assets/ronaldo.jpg",
+	            "status": "1"
+	        },
+	        {
+	            "id": "2",
+	            "name": "Geovane Felix",
+	            "email": "geovane.felix@meusite.com.br",
+	            "phone": "(14) 99745-5678",
+	            "amount": "265.59",
+	            "photo_url": "http://desafio.eadplataforma.com/front/assets/geovane.jpg",
+	            "status": "0"
+	        }
+	]
+}
+```
+```
 GET /api/1/profile/:id
 ```
 ```json
