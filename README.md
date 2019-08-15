@@ -33,6 +33,7 @@ GET /api/1/users
     "total": 2,
     "limit": 10,
     "offset": 0,
+    "rows": 2,
     "users": [
 	        {
 	            "id": "1",
@@ -63,6 +64,7 @@ GET /api/1/search?q={query}
     "total": 2,
     "limit": 10,
     "offset": 0,
+    "rows": 2,
     "search": [
 	        {
 	            "id": "1",
