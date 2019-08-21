@@ -1,3 +1,5 @@
+# [Desafio encerrado!!!]
+
 # Desafio para a vaga de Front-End
 
 Como parte do processo seletivo, usaremos este desafio para avaliar suas habilidades com os requisitos da vaga. 
