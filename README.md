@@ -1,10 +1,8 @@
-# [Desafio encerrado!!!]
-
 # Desafio para a vaga de Front-End
 
 Como parte do processo seletivo, usaremos este desafio para avaliar suas habilidades com os requisitos da vaga. 
 
-O teste prático deverá ser feito por você, em sua casa até o prazo limite de **20/08/2019**.
+O teste prático deverá ser feito por você, em sua casa até o prazo limite de **14/06/2020**.
 
 ## Como entregar o desafio?
 
